@@ -1,6 +1,5 @@
 package Aplicacao;
 
-import jogodetabuleiro.Peca;
 import xadrez.PecaDeXadrez;
 
 public class UI {
