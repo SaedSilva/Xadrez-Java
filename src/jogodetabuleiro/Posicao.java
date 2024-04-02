@@ -1,4 +1,4 @@
-package boardgame;
+package jogodetabuleiro;
 
 public class Posicao {
     private int linha;
